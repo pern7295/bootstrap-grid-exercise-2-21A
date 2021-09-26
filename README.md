@@ -1,8 +1,8 @@
 # bootstrap-grid-exercise-2
 
-## About the exercise
+## The exercise
 
-Screenshots på https://t.ly/Firu/
+Screenshots på https://docs.google.com/presentation/d/1MAPnZLIrvHux0KYoa5VSChb4F2j0eZvHZAtO3YeV0So/edit?usp=sharing
 
 ### use the documentation
 
